@@ -4,6 +4,6 @@
 ##   These options will be used with [Gulp Subtree(https://github.com/Snugug/gulp-subtree) to publish your Style Prototype to a remote branch.
 ##   To ensure all changes are being published, run `gulp init` first
 #########################
-remote: 'upstream'
+remote: 'origin'
 branch: 'gh-pages'
 message: 'Deploy'
