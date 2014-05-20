@@ -1,0 +1,292 @@
+{
+  "components": [
+    {
+      "name": "base--form",
+      "title": "Base - Form",
+      "id": "base-forms--base--form",
+      "path": "partials/components/base/forms/base--form.html",
+      "group": "base-forms"
+    },
+    {
+      "name": "input--color",
+      "title": "Input - Color",
+      "id": "base-forms-inputs--input--color",
+      "path": "partials/components/base/forms/inputs/input--color.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--date",
+      "title": "Input - Date",
+      "id": "base-forms-inputs--input--date",
+      "path": "partials/components/base/forms/inputs/input--date.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--datetime-local",
+      "title": "Input - Datetime Local",
+      "id": "base-forms-inputs--input--datetime-local",
+      "path": "partials/components/base/forms/inputs/input--datetime-local.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--datetime",
+      "title": "Input - Datetime",
+      "id": "base-forms-inputs--input--datetime",
+      "path": "partials/components/base/forms/inputs/input--datetime.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--email",
+      "title": "Input - Email",
+      "id": "base-forms-inputs--input--email",
+      "path": "partials/components/base/forms/inputs/input--email.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--file",
+      "title": "Input - File",
+      "id": "base-forms-inputs--input--file",
+      "path": "partials/components/base/forms/inputs/input--file.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--hidden",
+      "title": "Input - Hidden",
+      "id": "base-forms-inputs--input--hidden",
+      "path": "partials/components/base/forms/inputs/input--hidden.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--image",
+      "title": "Input - Image",
+      "id": "base-forms-inputs--input--image",
+      "path": "partials/components/base/forms/inputs/input--image.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--month",
+      "title": "Input - Month",
+      "id": "base-forms-inputs--input--month",
+      "path": "partials/components/base/forms/inputs/input--month.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--number",
+      "title": "Input - Number",
+      "id": "base-forms-inputs--input--number",
+      "path": "partials/components/base/forms/inputs/input--number.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--password",
+      "title": "Input - Password",
+      "id": "base-forms-inputs--input--password",
+      "path": "partials/components/base/forms/inputs/input--password.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--range",
+      "title": "Input - Range",
+      "id": "base-forms-inputs--input--range",
+      "path": "partials/components/base/forms/inputs/input--range.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--reset",
+      "title": "Input - Reset",
+      "id": "base-forms-inputs--input--reset",
+      "path": "partials/components/base/forms/inputs/input--reset.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--search",
+      "title": "Input - Search",
+      "id": "base-forms-inputs--input--search",
+      "path": "partials/components/base/forms/inputs/input--search.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--submit",
+      "title": "Input - Submit",
+      "id": "base-forms-inputs--input--submit",
+      "path": "partials/components/base/forms/inputs/input--submit.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--tel",
+      "title": "Input - Tel",
+      "id": "base-forms-inputs--input--tel",
+      "path": "partials/components/base/forms/inputs/input--tel.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--text",
+      "title": "Input - Text",
+      "id": "base-forms-inputs--input--text",
+      "path": "partials/components/base/forms/inputs/input--text.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--time",
+      "title": "Input - Time",
+      "id": "base-forms-inputs--input--time",
+      "path": "partials/components/base/forms/inputs/input--time.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--url",
+      "title": "Input - Url",
+      "id": "base-forms-inputs--input--url",
+      "path": "partials/components/base/forms/inputs/input--url.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--week",
+      "title": "Input - Week",
+      "id": "base-forms-inputs--input--week",
+      "path": "partials/components/base/forms/inputs/input--week.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "textarea",
+      "title": "Textarea",
+      "id": "base-forms-inputs--textarea",
+      "path": "partials/components/base/forms/inputs/textarea.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "button",
+      "title": "Button",
+      "id": "base-forms-controls--button",
+      "path": "partials/components/base/forms/controls/button.html",
+      "group": "base-forms-controls"
+    },
+    {
+      "name": "checkboxes",
+      "title": "Checkboxes",
+      "id": "base-forms-controls--checkboxes",
+      "path": "partials/components/base/forms/controls/checkboxes.html",
+      "group": "base-forms-controls"
+    },
+    {
+      "name": "radios",
+      "title": "Radios",
+      "id": "base-forms-controls--radios",
+      "path": "partials/components/base/forms/controls/radios.html",
+      "group": "base-forms-controls"
+    },
+    {
+      "name": "select",
+      "title": "Select",
+      "id": "base-forms-controls--select",
+      "path": "partials/components/base/forms/controls/select.html",
+      "group": "base-forms-controls"
+    },
+    {
+      "name": "base--text",
+      "title": "Base - Text",
+      "id": "base-content--base--text",
+      "path": "partials/components/base/content/base--text.html",
+      "group": "base-content"
+    },
+    {
+      "name": "em",
+      "title": "Em",
+      "id": "base-content-elements--em",
+      "path": "partials/components/base/content/elements/em.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "h1",
+      "title": "H1",
+      "id": "base-content-elements--h1",
+      "path": "partials/components/base/content/elements/h1.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "h2",
+      "title": "H2",
+      "id": "base-content-elements--h2",
+      "path": "partials/components/base/content/elements/h2.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "h3",
+      "title": "H3",
+      "id": "base-content-elements--h3",
+      "path": "partials/components/base/content/elements/h3.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "h4",
+      "title": "H4",
+      "id": "base-content-elements--h4",
+      "path": "partials/components/base/content/elements/h4.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "h5",
+      "title": "H5",
+      "id": "base-content-elements--h5",
+      "path": "partials/components/base/content/elements/h5.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "h6",
+      "title": "H6",
+      "id": "base-content-elements--h6",
+      "path": "partials/components/base/content/elements/h6.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "image",
+      "title": "Image",
+      "id": "base-content-elements--image",
+      "path": "partials/components/base/content/elements/image.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "link",
+      "title": "Link",
+      "id": "base-content-elements--link",
+      "path": "partials/components/base/content/elements/link.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "mixed-list",
+      "title": "Mixed List",
+      "id": "base-content-elements--mixed-list",
+      "path": "partials/components/base/content/elements/mixed-list.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "ol",
+      "title": "Ol",
+      "id": "base-content-elements--ol",
+      "path": "partials/components/base/content/elements/ol.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "p",
+      "title": "P",
+      "id": "base-content-elements--p",
+      "path": "partials/components/base/content/elements/p.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "strong",
+      "title": "Strong",
+      "id": "base-content-elements--strong",
+      "path": "partials/components/base/content/elements/strong.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "ul",
+      "title": "Ul",
+      "id": "base-content-elements--ul",
+      "path": "partials/components/base/content/elements/ul.html",
+      "group": "base-content-elements"
+    }
+  ],
+  "layouts": []
+}
